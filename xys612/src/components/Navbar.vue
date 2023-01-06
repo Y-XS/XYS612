@@ -5,7 +5,8 @@
             <v-icon >mdi-menu</v-icon>
         </v-app-bar-nav-icon>
         <v-app-bar-title>
-            Title
+          <span class="font-weight-bold deep-purple--text text--lighten-1">XYS</span>
+          <span>612</span>
         </v-app-bar-title>
     </v-app-bar>
 

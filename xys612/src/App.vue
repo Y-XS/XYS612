@@ -3,7 +3,7 @@
 
     <Navbar/>
     
-    <v-main class="height:1200">
+    <v-main >
       <v-container>
         <router-view/>
       </v-container>
